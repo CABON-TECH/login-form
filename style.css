@@ -1,0 +1,22 @@
+.container{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2.5px solid greenyellow;
+    border-radius: 50px;
+    background-color: aquamarine;
+    position: relative;
+    top: 150px;
+    left: 250px;
+}
+.container h1{
+    font-size: 3.5em;
+    color: rgb(51, 255, 0);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
